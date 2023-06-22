@@ -1,0 +1,35 @@
+Condition,Poverty,Inequality,Spending,Staffing
+Two-tailed t-test p,0.003,0.022,0.244,0.696
+Permutation p,0.003,0.023,0.243,0.695
+One tailed t-test (H0: B > 0),0.999,0.989,0.122,0.652
+One tailed t-test (H0: B < 0),0.001,0.011,0.878,0.348
+Proportion Simulated Coefficients (t-distributed) B > 0,0.999,0.99,0.116,0.656
+Proportion Simulated Coefficients (t-distributed) B < 0,0.001,0.01,0.884,0.344
+Proportion Simulated Coefficients (t-distributed) B >|< Important Value,0.212,0.01,0.788,0.274
+Proportion Simulated Coefficients (t-distributed) B in ROPE,0.01,0.056,0.32,0.539
+Proportion Simulated Coefficients (t-distributed) B > ROPE,0.99,0.943,0.025,0.345
+Proportion Simulated Coefficients (t-distributed) B < ROPE,0.01,0.057,0.975,0.655
+Proportion Bootstrapped Coefficients B > 0,0.998,0.968,0.086,0.61
+Proportion Bootstrapped Coefficients B < 0,0.002,0.032,0.914,0.39
+Proportion Bootstrapped Coefficients B >|< Important Value,0.218,0.024,0.827,0.332
+Proportion Bootstrapped Coefficients B in ROPE,0.014,0.094,0.292,0.466
+Proportion Bootstrapped Coefficients B > ROPE,0.986,0.899,0.015,0.345
+Proportion Bootstrapped Coefficients B < ROPE,0.014,0.101,0.985,0.655
+Proportion Posterior Draws (Uninformative Priors) B > 0,0.998,0.987,0.122,0.653
+Proportion Posterior Draws (Uninformative Priors) B < 0,0.002,0.013,0.878,0.347
+Proportion Posterior Draws (Uninformative Priors) B >|< Important Value,0.226,0.012,0.78,0.281
+Proportion Posterior Draws (Uninformative Priors) B in ROPE,0.013,0.064,0.321,0.523
+Proportion Posterior Draws (Uninformative Priors) B > ROPE,0.987,0.934,0.03,0.352
+Proportion Posterior Draws (Uninformative Priors) B < ROPE,0,0.001,0.648,0.125
+Proportion Posterior Draws (Weakly Informative Priors) B > 0,0.998,0.986,0.131,0.645
+Proportion Posterior Draws (Weakly Informative Priors) B < 0,0.002,0.014,0.869,0.355
+Proportion Posterior Draws (Weakly Informative Priors) B >|< Important Value,0.155,0.007,0.765,0.285
+Proportion Posterior Draws (Weakly Informative Priors) B in ROPE,0.015,0.076,0.343,0.544
+Proportion Posterior Draws (Weakly Informative Priors) B > ROPE,0.985,0.922,0.027,0.332
+Proportion Posterior Draws (Weakly Informative Priors) B < ROPE,0,0.002,0.63,0.124
+Proportion Posterior Draws (Informative Priors) B > 0,0.999,0.988,0.079,0.661
+Proportion Posterior Draws (Informative Priors) B < 0,0.001,0.012,0.921,0.339
+Proportion Posterior Draws (Informative Priors) B >|< Important Value,0.236,0.01,0.843,0.268
+Proportion Posterior Draws (Informative Priors) B in ROPE,0.006,0.056,0.271,0.533
+Proportion Posterior Draws (Informative Priors) B > ROPE,0.994,0.942,0.011,0.351
+Proportion Posterior Draws (Informative Priors) B < ROPE,0,0.002,0.719,0.116

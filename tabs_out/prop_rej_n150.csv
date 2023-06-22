@@ -1,0 +1,5 @@
+name,Fail to Reject,Reject
+poverty_z,0.001,0.999
+inequal_z,0.013,0.987
+spending_z,0.457,0.543
+staffing_z,0.882,0.118
